@@ -133,7 +133,7 @@ const server = http.createServer((req, res) => {
         pages[path](req, res);
     } else {
         res.writeHead(404, 'NOT FOUND');
-        res.end('THIS PAGE DOE NOT EXIST');
+        res.end('THIS PAGE DOES NOT EXIST');
     }
     // console.log(path);
     // console.log('test');
