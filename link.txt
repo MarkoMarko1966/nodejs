@@ -1,0 +1,4 @@
+https://www.freecodecamp.org/news/how-to-use-node-environment-variables-with-a-dotenv-file-for-node-js-and-npm/ - environment variables
+- config file to gitignore
+- .env files
+- npm i dotenv
