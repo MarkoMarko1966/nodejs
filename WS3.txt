@@ -4,4 +4,4 @@ https://www.freecodecamp.org/news/how-to-use-node-environment-variables-with-a-d
 - npm i dotenv
 
 - config.json file 
-- index.js citac na config fileot
+- index.js citac na config fileot (ne zavisi od npm packages)
