@@ -1,0 +1,7 @@
+middleware - request-response cycle
+-express, express-jwt, express-fileupload, dotenv,  
+-npm uninstall
+-gitignore nodemodule, dot.env
+-ISE - internal server error
+-MIME type - detali za fileot(vo slucajov slikata)
+
