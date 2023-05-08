@@ -1,0 +1,11 @@
+Fly.io - deployment na nodejs aplikacii
+-deployment na aplikacii
+-Hetzner, Leaseweb, AWS, Azure rent a server
+-deployment phases - google
+-GYRA - automation testing
+-staging area - manuel/automation testing
+-hotfix - majorbug na production - merge req do production area
+-command-line interface - terminal
+-powershell fly.io installation
+-environment variables - Path - Edit - /bin - start fly.io app
+
