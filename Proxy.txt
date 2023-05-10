@@ -1,0 +1,2 @@
+proxy - localhost/8080 porta
+proxyto gi spojuva microservices
