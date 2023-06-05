@@ -1,0 +1,22 @@
+- role users node.js
+1.direkno vo baza se vnesuva admin userot itn.
+- se lista so reuse na komponentata 
+- search so filter po key words
+- list elements vo nizata
+- add to cart - uslov if/else najavuvanje
+- rerendering vo react
+FONT.OS
+validacija na password
+- mailot se vnesuva so mail +1 za free scenario na mailgun
+-posle log in prikazuva ticket history
+-user details promena podatoci vo baza?
+shopping cart add/delete
+-check out - card info
+-payment system node.js
+-stripes payment processing system
+- reuse na components vo react
+- QR.io generiranje na qr kodovi - koj ke moze da gi vnesuva samo administatorot
+- diff admin/basic user
+- sekoj admin gi gleda svoite eventi
+- soft delete - delete one/ update one - se proveruva na frontend - samo za users
+- TICKET MASTER 
